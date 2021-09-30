@@ -20,11 +20,10 @@ export const GlobalStyles = createGlobalStyle`
       box-sizing:border-box;
     }
     body {
-      background-color: #FAFAFA;
-      font-size:14px;
-       font-family: 'Roboto', 'Spoqa Han Sans', 'Spoqa Han Sans JP', 'Sans-serif'
-      color:rgb(38, 38, 38);
-
+        background-color: #FAFAFA;
+        font-size:14px;
+        font-family:'Open Sans', sans-serif;
+        color:rgb(38, 38, 38);
     }
     a {
       text-decoration: none;
